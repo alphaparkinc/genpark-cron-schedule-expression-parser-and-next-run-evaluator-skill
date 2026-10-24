@@ -1,0 +1,7 @@
+[project]
+name = "genpark-cron-schedule-expression-parser-and-next-run-evaluator-skill"
+version = "1.0.0"
+description = "Standard 5-field cron expression parser, interval evaluator, and upcoming execution schedule generator"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
